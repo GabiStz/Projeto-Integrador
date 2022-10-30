@@ -51,3 +51,21 @@
     left: 14px;
     top: 40px;
 }
+
+#parque-tecnico {
+    position: absolute;
+    width: 337px;
+    height: 32px;
+    left: 93px;
+    top: 68px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 10px;
+    /* or 40% */
+
+
+    color: #FFFFFF;
+}
