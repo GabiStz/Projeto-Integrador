@@ -1,0 +1,53 @@
+#cor-de-fundo {
+    position: relative;
+    width: 1440px;
+    height: 965px;
+    background: #95B994;
+}
+
+#rectangle {
+    position: absolute;
+    width: 1440px;
+    height: 85px;
+    left: 8px;
+    top: 30px;
+
+    background: #4B784F;
+}
+
+#topo {
+    position: absolute;
+    width: 1440px;
+    height: 29px;
+    left: 8px;
+    top: 8px;
+
+    background: #FFFFFF;
+}
+
+.text-size {
+    position: absolute;
+    width: 1240px;
+    height: 29px;
+    left: 0px;
+    top: 0px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+
+
+    color: #000000;
+
+}
+
+.arvore {
+    position: absolute;
+    width: 57px;
+    height: 72px;
+    left: 14px;
+    top: 40px;
+}
