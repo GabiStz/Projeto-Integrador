@@ -69,3 +69,52 @@
 
     color: #FFFFFF;
 }
+
+#botao1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 12px 16px;
+    gap: 8px;
+
+    position: absolute;
+    left: 32.36%;
+    right: 60.14%;
+    top: 5.30%;
+    bottom: 90.26%;
+    border-radius: 0px;
+    background: #4B784F;
+    border: none;
+}
+
+.home {
+
+    position: absolute;
+    left: 33.61%;
+    right: 61.46%;
+    top: 6.84%;
+    bottom: 92.22%;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 16px;
+
+
+    display: flex;
+    align-items: center;
+
+    color: #FFFFFF;
+}
+
+.logo {
+    position: absolute;
+    width: 1132px;
+    height: 700px;
+    left: 154px;
+    top: 191px;
+    overflow-x: scroll;
+
+}
