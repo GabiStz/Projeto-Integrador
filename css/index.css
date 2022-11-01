@@ -1,19 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
 #cor-de-fundo {
     position: relative;
     width: 1440px;
     height: 965px;
-    background: #95B994;
+    background: #ffffff;
 }
 
 #rectangle {
     position: absolute;
-    width: 1440px;
+    width: 1920px;
     height: 85px;
     left: 8px;
     top: 8px;
 
     background: #4B784F;
 }
+
+
 
 
 
@@ -105,8 +112,9 @@
     position: absolute;
     width: 1132px;
     height: 700px;
-    left: 154px;
+    left: 285px;
     top: 191px;
-    overflow-x: scroll;
+    border-radius: 53px;
+
 
 }
